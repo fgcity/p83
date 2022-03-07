@@ -1,0 +1,33 @@
+.body_backgorund {
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alamy.com%2Fwooden-pencils-background-back-to-school-vector-illustration-image259173925.html&psig=AOvVaw2IzjX7L80dk1Xo2FEOceX5&ust=1646732389745000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOD--63as_YCFQAAAAAdAAAAABAI");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color: red; 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 16px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+  
